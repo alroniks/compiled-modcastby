@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Модкаст</title>
+    <link>https://modcast.by/</link>
+    <description>Recent content on Модкаст</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-BY</language><atom:link href="https://modcast.by/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск #1</title>
+      <link>https://modcast.by/episode/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://modcast.by/episode/1/</guid>
+      <description>Иконки для типов содержимого, XSS-уязвимости в админке, заморозка 3 ветки, работа над документацией, упорядочивание разрешений и многое другое.</description>
+    </item>
+    
+    <item>
+      <title>Выпуск #2: Новости и дорожная карта MODX, мое видение</title>
+      <link>https://modcast.by/episode/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://modcast.by/episode/2/</guid>
+      <description>Ночные сборки 3 версии, новый SEO Tab, большое обновление компонентов Василия Наумкина, упоминания пользователей на MODX.pro и некоторые подробности рефакторинга от Джейсона.</description>
+    </item>
+    
+    <item>
+      <title>О подкасте</title>
+      <link>https://modcast.by/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://modcast.by/about/</guid>
+      <description>Привет. Меня зовут Иван Климчук и я автор и ведущий подкаста «Модкаст – говорим о MODX».
+Идея сделать подкаст о MODX у меня была давно, но реализовать ее как-то не получалось.
+Не хватало опыта в MODX, не хватало опыта в делании подкастов (его и сейчас то немного), не понятно было о чем говорить.</description>
+    </item>
+    
+    <item>
+      <title>Поддержка и реклама</title>
+      <link>https://modcast.by/donate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://modcast.by/donate/</guid>
+      <description>Подкаст бесплатный и выходит благодаря поддержке слушателей. Вы можете поддержать подкаст, перечислив любую сумму на кошелек в Яндекс.Деньги.
+Яндекс.Деньги
+Реклама Пока нет статистики по прослушиваниям и регулярности выпусков, сложно предложить условия и цену, но я открыт к диалогу и можно обсудить взаимовыгодное сотрудничество.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,131 @@
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://modcast.by/episode/index.xml" rel="self" type="application/rss+xml" />
+
+    <title>Модкаст</title>
+    <link>https://modcast.by/</link>
+    <language>ru-BY</language>
+    <copyright>СС BY-NC-ND 4.0</copyright>
+
+    <itunes:subtitle>Говорим о MODX</itunes:subtitle>
+    <itunes:author>Иван Климчук</itunes:author>
+
+    <itunes:summary>Говорим о MODX: новости, прогресс разработки, интервью с участниками сообщества.</itunes:summary>
+    <description>Говорим о MODX: новости, прогресс разработки, интервью с участниками сообщества.</description>
+
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Ivan Klimchuk</itunes:name>
+      <itunes:email>ivan@klimchuk.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:image href="https://modcast.by/img/artwork.jpg" />
+
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News" />
+    </itunes:category>
+
+    <itunes:explicit>no</itunes:explicit>
+
+    
+      
+        <item>
+          <link>https://modcast.by/episode/1/</link>
+          <title>Выпуск #1</title>
+          <pubDate>Mon, 11 Mar 2019 30:00:00 +1000 </pubDate>
+
+          <description><![CDATA[<h3 id="содержание">Содержание</h3>
+<ul>
+<li>00:00:20 MODX Meetup в Амстердаме</li>
+<li>00:00:44 Команда Ивана Бочкарева</li>
+<li>00:01:58 Приведение в порядок permissions</li>
+<li>00:02:56 Исправления XSS в админке</li>
+<li>00:03:43 Security.md в репозитории</li>
+<li>00:04:26 Новые шрифты в админке</li>
+<li>00:04:51 Иконки для типов содержимого</li>
+<li>00:06:09 Работа над документацией</li>
+<li>00:07:29 Большой рефакторинг всё, почти</li>
+<li>00:09:01 Благодарности авторам</li>
+<li>00:09:57 Видео минских митапов</li>
+<li>00:10:38 О подкасте</li>
+<li>00:11:34 Об авторе</li>
+</ul>
+<p><a href="https://modx.pro/news/17755
+">MODX-Дайджест #1
+</a></p>
+<p><a href="https://t.me/modxdigest">Телеграм-канал дайджеста</a></p>
+<p><strong>Слушайте</strong>: <a href="https://itunes.apple.com/by/podcast/%D0%BC%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82/id1456459618">iTunes</a>, <a href="https://overcast.fm/itunes1456459618">Overcast</a>, <a href="https://modcast.by/episode/index.xml">RSS</a>, <a href="https://www.youtube.com/watch?v=fI_Yie3-9Jk&amp;list=PLVbo0tgRKXrSGg6dxJYTIHko5t7AOnG3E">YouTube</a>, <a href="https://music.yandex.ru/album/7133163">Яндекс</a>, <a href="https://soundcloud.com/modcastby">SoundCloud</a></p>
+<p>Задавайте вопросы и предлагайте темы: <a href="https://twitter.com/iklimchuk">Твиттер</a>, <a href="https://t.me/alroniks">Телеграм</a></p>
+<p>Поддержите: <a href="https://money.yandex.ru/to/41001878021446/1000">Яндекс.Деньги</a></p>
+<p>Спасибо!</p>
+]]></description>
+
+          <guid isPermaLink="true">https://s3.eu-north-1.amazonaws.com/modcastby/episodes/1.mp3</guid>
+          <enclosure url="https://s3.eu-north-1.amazonaws.com/modcastby/episodes/1.mp3" length="14233380" type="audio/mpeg" />
+
+          <itunes:episode>1</itunes:episode>
+          <itunes:duration>00:14:39</itunes:duration>
+          <itunes:image href="https://modcast.by/img/e/aw-1.png"/>
+          
+          <itunes:author>Иван Климчук</itunes:author>
+          <itunes:explicit>no</itunes:explicit>
+
+          <itunes:summary>Иконки для типов содержимого, XSS-уязвимости в админке, заморозка 3 ветки, работа над документацией, упорядочивание разрешений и многое другое.</itunes:summary>
+        </item>
+      
+    
+      
+        <item>
+          <link>https://modcast.by/episode/2/</link>
+          <title>Выпуск #2: Новости и дорожная карта MODX, мое видение</title>
+          <pubDate>Mon, 25 Mar 2019 30:00:00 +1000 </pubDate>
+
+          <description><![CDATA[<h3 id="содержание">Содержание</h3>
+<ul>
+<li>00:00:04 О подкасте</li>
+<li>00:00:52 Биндинги в ядро</li>
+<li>00:01:45 Минимальная версия PHP</li>
+<li>00:03:19 Ночные сборки третьей версии</li>
+<li>00:04:57 Как улучшить ночные сборки</li>
+<li>00:05:35 Теперь без good night</li>
+<li>00:06:03 Рефакторинг Джейсона</li>
+<li>00:08:49 Упоминания пользователей</li>
+<li>00:09:33 Чистка мертвых душ</li>
+<li>00:09:58 Обновление компонентов до Bootstrap 4</li>
+<li>00:10:19 Поумневший mSearch2</li>
+<li>00:10:58 Новый Jevix</li>
+<li>00:11:17 Ротация логов</li>
+<li>00:11:35 Обновленный SEO Tab</li>
+<li>00:11:53 Другие дополнения от Sterc</li>
+<li>00:13:20 Как улучшить MODX</li>
+<li>00:15:46 Разделение ядра на части</li>
+<li>00:18:52 Стандартизация</li>
+</ul>
+<p><a href="https://modx.pro/news/17879
+">MODX-Дайджест #2
+</a></p>
+<p><a href="https://t.me/modxdigest">Телеграм-канал дайджеста</a></p>
+<p><strong>Слушайте</strong>: <a href="https://itunes.apple.com/by/podcast/%D0%BC%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82/id1456459618">iTunes</a>, <a href="https://overcast.fm/itunes1456459618">Overcast</a>, <a href="https://modcast.by/episode/index.xml">RSS</a>, <a href="https://www.youtube.com/watch?v=fI_Yie3-9Jk&amp;list=PLVbo0tgRKXrSGg6dxJYTIHko5t7AOnG3E">YouTube</a>, <a href="https://music.yandex.ru/album/7133163">Яндекс</a>, <a href="https://soundcloud.com/modcastby">SoundCloud</a></p>
+<p>Задавайте вопросы и предлагайте темы: <a href="https://twitter.com/iklimchuk">Твиттер</a>, <a href="https://t.me/alroniks">Телеграм</a></p>
+<p>Поддержите: <a href="https://money.yandex.ru/to/41001878021446/1000">Яндекс.Деньги</a></p>
+<p>Спасибо!</p>
+]]></description>
+
+          <guid isPermaLink="true">https://s3.eu-north-1.amazonaws.com/modcastby/episodes/episode-2.mp3</guid>
+          <enclosure url="https://s3.eu-north-1.amazonaws.com/modcastby/episodes/episode-2.mp3" length="25494290" type="audio/mpeg" />
+
+          <itunes:episode>2</itunes:episode>
+          <itunes:duration>00:21:00</itunes:duration>
+          <itunes:image href="https://modcast.by/img/e/aw-2.png"/>
+          
+          <itunes:author>Иван Климчук</itunes:author>
+          <itunes:explicit>no</itunes:explicit>
+
+          <itunes:summary>Ночные сборки 3 версии, новый SEO Tab, большое обновление компонентов Василия Наумкина, упоминания пользователей на MODX.pro и некоторые подробности рефакторинга от Джейсона.</itunes:summary>
+        </item>
+      
+    
+      
+    
+  </channel>
+</rss>
