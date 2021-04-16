@@ -10,8 +10,8 @@
     <itunes:subtitle>Говорим о MODX</itunes:subtitle>
     <itunes:author>Иван Климчук</itunes:author>
 
-    <itunes:summary>Говорим о MODX: новости, прогресс разработки, интервью с участниками сообщества.</itunes:summary>
-    <description>Говорим о MODX: новости, прогресс разработки, интервью с участниками сообщества.</description>
+    <itunes:summary>Говорим о MODX. Новости, прогресс разработки, интервью с участниками сообщества.</itunes:summary>
+    <description>Говорим о MODX. Новости, прогресс разработки, интервью с участниками сообщества.</description>
 
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
@@ -53,7 +53,6 @@
 <p><a href="https://modx.pro/news/17755
 ">MODX-Дайджест #1
 </a></p>
-<p><a href="https://t.me/modxdigest">Телеграм-канал дайджеста</a></p>
 <p><strong>Слушайте</strong>: <a href="https://itunes.apple.com/by/podcast/%D0%BC%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82/id1456459618">iTunes</a>, <a href="https://overcast.fm/itunes1456459618">Overcast</a>, <a href="https://modcast.by/episode/index.xml">RSS</a>, <a href="https://www.youtube.com/watch?v=fI_Yie3-9Jk&amp;list=PLVbo0tgRKXrSGg6dxJYTIHko5t7AOnG3E">YouTube</a>, <a href="https://music.yandex.ru/album/7133163">Яндекс</a>, <a href="https://soundcloud.com/modcastby">SoundCloud</a></p>
 <p>Задавайте вопросы и предлагайте темы: <a href="https://twitter.com/iklimchuk">Твиттер</a>, <a href="https://t.me/alroniks">Телеграм</a></p>
 <p>Поддержите: <a href="https://money.yandex.ru/to/41001878021446/1000">Яндекс.Деньги</a></p>
@@ -61,7 +60,7 @@
 ]]></description>
 
           <guid isPermaLink="true">https://s3.eu-north-1.amazonaws.com/modcastby/episodes/1.mp3</guid>
-          <enclosure url="https://s3.eu-north-1.amazonaws.com/modcastby/episodes/1.mp3" length="14233380" type="audio/mpeg" />
+          <enclosure url="https://s3.eu-north-1.amazonaws.com/modcastby/episodes/1.mp3" length="14454097" type="audio/mpeg" />
 
           <itunes:episode>1</itunes:episode>
           <itunes:duration>00:14:39</itunes:duration>
@@ -104,7 +103,6 @@
 <p><a href="https://modx.pro/news/17879
 ">MODX-Дайджест #2
 </a></p>
-<p><a href="https://t.me/modxdigest">Телеграм-канал дайджеста</a></p>
 <p><strong>Слушайте</strong>: <a href="https://itunes.apple.com/by/podcast/%D0%BC%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82/id1456459618">iTunes</a>, <a href="https://overcast.fm/itunes1456459618">Overcast</a>, <a href="https://modcast.by/episode/index.xml">RSS</a>, <a href="https://www.youtube.com/watch?v=fI_Yie3-9Jk&amp;list=PLVbo0tgRKXrSGg6dxJYTIHko5t7AOnG3E">YouTube</a>, <a href="https://music.yandex.ru/album/7133163">Яндекс</a>, <a href="https://soundcloud.com/modcastby">SoundCloud</a></p>
 <p>Задавайте вопросы и предлагайте темы: <a href="https://twitter.com/iklimchuk">Твиттер</a>, <a href="https://t.me/alroniks">Телеграм</a></p>
 <p>Поддержите: <a href="https://money.yandex.ru/to/41001878021446/1000">Яндекс.Деньги</a></p>
@@ -112,7 +110,7 @@
 ]]></description>
 
           <guid isPermaLink="true">https://s3.eu-north-1.amazonaws.com/modcastby/episodes/episode-2.mp3</guid>
-          <enclosure url="https://s3.eu-north-1.amazonaws.com/modcastby/episodes/episode-2.mp3" length="25494290" type="audio/mpeg" />
+          <enclosure url="https://s3.eu-north-1.amazonaws.com/modcastby/episodes/episode-2.mp3" length="25495535" type="audio/mpeg" />
 
           <itunes:episode>2</itunes:episode>
           <itunes:duration>00:21:00</itunes:duration>
