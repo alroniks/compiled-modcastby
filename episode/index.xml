@@ -59,8 +59,8 @@
 <p>Спасибо!</p>
 ]]></description>
 
-          <guid isPermaLink="true">https://s3.eu-north-1.amazonaws.com/modcastby/episodes/1.mp3</guid>
-          <enclosure url="https://s3.eu-north-1.amazonaws.com/modcastby/episodes/1.mp3" length="14454097" type="audio/mpeg" />
+          <guid isPermaLink="true">https://s3.eu-north-1.amazonaws.com/modcastby/episodes/episode-1.mp3</guid>
+          <enclosure url="https://s3.eu-north-1.amazonaws.com/modcastby/episodes/episode-1.mp3" length="14454097" type="audio/mpeg" />
 
           <itunes:episode>1</itunes:episode>
           <itunes:duration>00:14:39</itunes:duration>
