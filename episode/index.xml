@@ -9,7 +9,7 @@
     <copyright>СС BY-NC-ND 4.0</copyright>
 
     <itunes:subtitle>Говорим о MODX</itunes:subtitle>
-    <itunes:author>Иван Климчук</itunes:author>
+    <itunes:author>Ivan Klimchuk</itunes:author>
 
     <itunes:summary>Говорим о MODX. Новости, прогресс разработки, интервью с участниками сообщества.</itunes:summary>
     <description>Говорим о MODX. Новости, прогресс разработки, интервью с участниками сообщества.</description>
@@ -32,20 +32,24 @@
       <itunes:category text="How To" />
     </itunes:category>
 
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
 
     
       
         <item>
           
           
-
+            <itunes:season>1</itunes:season>
           
 
-          <itunes:title>1. Заморозка 3-й ветки и работа над документацией</itunes:title>
+          
+            <itunes:episodeType>full</itunes:episodeType>
+          
+
+          <itunes:title>S1-E1 Заморозка 3-й ветки и работа над документацией</itunes:title>
 
           <link>https://modcast.by/episode/1/</link>
-          <title>1. Заморозка 3-й ветки и работа над документацией</title>
+          <title>S1-E1 Заморозка 3-й ветки и работа над документацией</title>
           <pubDate>Mon, 11 Mar 2019 19:00:00 +1000 </pubDate>
 
           <description><![CDATA[<h3 id="содержание">Содержание</h3>
@@ -80,7 +84,7 @@
           <itunes:duration>00:14:39</itunes:duration>
           <itunes:image href="https://modcast.by/img/e/aw-1.png"/>
           
-          <itunes:author>Иван Климчук</itunes:author>
+          <itunes:author>Ivan Klimchuk</itunes:author>
           <itunes:explicit>no</itunes:explicit>
 
           <itunes:summary>Иконки для типов содержимого, XSS-уязвимости в админке, заморозка 3 ветки, работа над документацией, упорядочивание разрешений и многое другое.</itunes:summary>
@@ -91,13 +95,17 @@
         <item>
           
           
-
+            <itunes:season>1</itunes:season>
           
 
-          <itunes:title>2. Новости и дорожная карта MODX, мое видение</itunes:title>
+          
+            <itunes:episodeType>full</itunes:episodeType>
+          
+
+          <itunes:title>S1-E2 Новости и дорожная карта MODX, мое видение</itunes:title>
 
           <link>https://modcast.by/episode/2/</link>
-          <title>2. Новости и дорожная карта MODX, мое видение</title>
+          <title>S1-E2 Новости и дорожная карта MODX, мое видение</title>
           <pubDate>Mon, 25 Mar 2019 19:00:00 +1000 </pubDate>
 
           <description><![CDATA[<h3 id="содержание">Содержание</h3>
@@ -137,7 +145,7 @@
           <itunes:duration>00:21:00</itunes:duration>
           <itunes:image href="https://modcast.by/img/e/aw-2.png"/>
           
-          <itunes:author>Иван Климчук</itunes:author>
+          <itunes:author>Ivan Klimchuk</itunes:author>
           <itunes:explicit>no</itunes:explicit>
 
           <itunes:summary>Ночные сборки 3 версии, новый SEO Tab, большое обновление компонентов Василия Наумкина, упоминания пользователей на MODX.pro и некоторые подробности рефакторинга от Джейсона.</itunes:summary>
@@ -148,13 +156,17 @@
         <item>
           
           
-
+            <itunes:season>2</itunes:season>
           
 
-          <itunes:title>3. О чем подкаст. Анонс второго сезона</itunes:title>
+          
+            <itunes:episodeType>trailer</itunes:episodeType>
+          
+
+          <itunes:title>S2-E1 О чем подкаст. Анонс второго сезона</itunes:title>
 
           <link>https://modcast.by/episode/3/</link>
-          <title>3. О чем подкаст. Анонс второго сезона</title>
+          <title>S2-E1 О чем подкаст. Анонс второго сезона</title>
           <pubDate>Fri, 16 Apr 2021 21:00:00 +1000 </pubDate>
 
           <description><![CDATA[<p><strong>Слушайте</strong>: <a href="https://itunes.apple.com/by/podcast/%D0%BC%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82/id1456459618">iTunes</a>, <a href="https://overcast.fm/itunes1456459618">Overcast</a>, <a href="https://modcast.by/episode/index.xml">RSS</a>, <a href="https://www.youtube.com/watch?v=fI_Yie3-9Jk&amp;list=PLVbo0tgRKXrSGg6dxJYTIHko5t7AOnG3E">YouTube</a>, <a href="https://music.yandex.ru/album/7133163">Яндекс</a>, <a href="https://soundcloud.com/modcastby">SoundCloud</a></p>
@@ -170,7 +182,7 @@
           <itunes:duration>00:01:05</itunes:duration>
           <itunes:image href="https://modcast.by/img/e/aw-3.png"/>
           
-          <itunes:author>Иван Климчук</itunes:author>
+          <itunes:author>Ivan Klimchuk</itunes:author>
           <itunes:explicit>no</itunes:explicit>
 
           <itunes:summary>В этом выпуске я анонсирую второй сезон и раскрываю немного суть будущих выпусков: это будут рассказы об истории MODX, о разработке и принципах и конечно же интервью с известными в сообществе людьми.</itunes:summary>
